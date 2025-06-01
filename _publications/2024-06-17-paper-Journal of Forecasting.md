@@ -2,7 +2,7 @@
 title: "Functional Volatility Forecasting"
 collection: publications
 category: Journal article
-permalink: /publication/2024-06-17-paper-Journal of Forecasting
+permalink: /publications/2024-06-17-paper-Journal of Forecasting
 excerpt: 'We propose a volatility forecasting method based on functional time series. Asymptotic theory related to the estimation of latent volatility curves via functional principal analysis is formally established, laying a solid theoretical foundation of the proposed forecasting method. And the proposed functional approach fully exploits the rich intraday information and hence leads to more accurate volatility forecasts.'
 date: 2024-12-01
 venue: 'Journal of Forecasting'
