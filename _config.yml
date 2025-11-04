@@ -22,7 +22,7 @@ repository               : "TanTzs/TanTzs.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "AVATAR.png"
+  avatar           : "AVATAR_eleme.jpg"
   name             : "Tan Zhensi (谭朕斯)"
   pronouns         : # example: "she/her"  
   bio              : "I am a Ph.D. student in Statistics at SUFE."
